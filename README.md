@@ -31,6 +31,7 @@ Dosyayı kaydedin ve projeyi çalıştırın.
 
 -----------------------------------------------------------------
 
+
 Text-to-Image Project Setup Guide
 
 This project generates images from text prompts using a Text-to-Image model hosted on Hugging Face.
