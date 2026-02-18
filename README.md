@@ -1,3 +1,7 @@
+## 🤖 Application Preview
+
+![AI Image Generator User Interface](Ai_image_generator.png)
+
 Text-to-Image Projesi Kurulum Rehberi
 
 Bu proje, Hugging Face üzerinde bulunan bir Text-to-Image modeli kullanarak metni görsele dönüştürmektedir.
